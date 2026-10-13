@@ -112,19 +112,14 @@ My goal is to develop a stronger understanding of how AI capabilities can be int
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 What I Bring to Software Engineering
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdomPamela&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdomPamela&layout=compact&hide_border=true" alt="Most-used programming languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=AdomPamela&hide_border=true" alt="GitHub contribution streak" />
-</p>
+- **Problem Solving:** Breaking down ideas and requirements into practical software solutions.
+- **Full-Stack Development:** Building interactive interfaces and connecting them to backend services and databases.
+- **Mobile Engineering:** Developing mobile experiences with modern cross-platform frameworks and native Android technologies.
+- **Software Design:** Exploring maintainable architecture, reusable components, authentication, and reliable data handling.
+- **AI Exploration:** Learning how artificial intelligence can extend software capabilities and address real-world challenges.
+- **Continuous Improvement:** Strengthening my engineering skills through hands-on projects, experimentation, debugging, and collaboration.
 
 ---
 
@@ -139,13 +134,24 @@ My goal is to develop a stronger understanding of how AI capabilities can be int
 
 ---
 
-## 🤝 Let's Connect
+## 🌱 Beyond the Code
 
-I'm always open to learning, collaborating, exchanging ideas, and building software that solves real-world problems.
+I'm interested in the evolving relationship between software engineering and artificial intelligence. I want to build software that is not only functional, but also reliable, accessible, maintainable, and useful to the people who depend on it.
 
-- **GitHub:** [@AdomPamela](https://github.com/AdomPamela)
-- **Portfolio:** [Visit my portfolio](https://pamela-portfolio-phi.vercel.app/)
-- **Email:** [pamelaadom2023@gmail.com](mailto:pamelaadom2023@gmail.com)
+I'm continuously exploring new technologies, improving my development workflow, and turning ideas into working applications.
+
+---
+
+## 🤝 Let's Build Something Meaningful
+
+I'm open to collaborating on software projects, exchanging ideas with other developers, and contributing to projects where I can learn, create, and make a meaningful impact.
+
+**GitHub:** [@AdomPamela](https://github.com/AdomPamela)  
+**Portfolio:** [Explore my portfolio](https://pamela-portfolio-phi.vercel.app/)  
+**Email:** [pamelaadom2023@gmail.com](mailto:pamelaadom2023@gmail.com)
+
+*Building with purpose. Learning continuously. Engineering better solutions.*
+---
 
 ---
 
