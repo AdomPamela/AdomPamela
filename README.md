@@ -44,5 +44,6 @@ Explore my repositories to see more of my work and ongoing learning.
 
 - GitHub: [@AdomPamela](https://github.com/AdomPamela)
 - Portfolio: [Visit my portfolio](https://pamela-portfolio-phi.vercel.app/)
+- Email: pamelaadom2023@gmail.com
 
 I'm always interested in learning, collaborating, and building useful software.
